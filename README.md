@@ -36,7 +36,7 @@
 <img src="https://img.shields.io/badge/Microsoft Azure-282C34?logo=microsoftazure&logoColor=008AD7" alt="azure" title="azure" height="25" />
 
 <br/>
-<h3>Je suis très à l'aise avec ces logiciels :</h3>
+<h3>I am also pretty good with those software:</h3>
 <br/>
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
 <img src="https://img.shields.io/badge/Photoshop-282C34?logo=adobephotoshop&logoColor=8BC3FC" alt="Photoshop logo" title="Photoshop" height="25" />
