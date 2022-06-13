@@ -1,6 +1,6 @@
-# Hi, I'm Antoine and welcome  to my GitHub repository
+# Hi, I'm Antoine and welcome to my GitHub repository
 
-### I'm a Front-End Developer, aspiring to become full-stack curently located in Paris, France.
+### I'm a Front-End Developer, aspiring to become Full-Stack curently located in Paris, France.
 <br/>
 
 ## I'm open to new work opportunities
@@ -8,7 +8,7 @@
 ## You can contact me by mail at antoinecadoret97@gmail.com 
 
 <br>
-<h3> I'm a king pin in :</h3>
+<h3> I master these</h3>
 <br/>
 <div style="display: flex;">
 <img src="https://img.shields.io/badge/React.js-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React.js" height="25" style="margin-right: 1rem; margin-bottom: 1rem;"/>
@@ -24,7 +24,7 @@
 </div>
 <br/>
 <br/>
-<h3>I also know how to use :</h3>
+<h3>I also know how to use</h3>
 <br/>
 <div style="display: flex; flex-wrap: wrap;">
 <img src="https://img.shields.io/badge/vue.js-282C34?logo=vue.js&logoColor=41B883" alt="Vue.js logo" title="Vue.js" height="25" style="margin-right: 1rem; margin-bottom: 1rem;" />
@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/Microsoft Azure-282C34?logo=microsoftazure&logoColor=008AD7" alt="azure" title="azure" height="25" style="margin-right: 1rem; margin-bottom: 1rem;" />
 </div>
 <br/>
-<h3>Je suis très à l'aise avec ces logiciels :</h3>
+<h3>I'm also comfy with these </h3>
 <br/>
 <div style="display: flex; flex-wrap: wrap;">
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" style="margin-right: 1rem; margin-bottom: 1rem;" />
